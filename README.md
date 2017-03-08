@@ -1,5 +1,5 @@
 # WebIntent Android Plugin for Cordova 3.X #
-this is a fork from Boris Smus plugin with the fix of #23 issue. this plugin works for sharing images as well as text with your cordova app 
+This is a fork from Boris Smus plugin with the fix of #23 issue. this plugin works for sharing images as well as text with your cordova app 
 
 Phonegap/Cordova 2.X version available at the [WebIntent](https://github.com/phonegap/phonegap-plugins/tree/master/Android/WebIntent) plugin site.
 
